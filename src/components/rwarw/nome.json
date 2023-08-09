@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_rwarw_nomes",
+  "info": {
+    "displayName": "nome",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "ingrediente": {
+      "type": "string"
+    },
+    "outro": {
+      "type": "string"
+    },
+    "dislva": {
+      "type": "string"
+    }
+  }
+}
